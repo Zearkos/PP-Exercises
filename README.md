@@ -1,2 +1,2 @@
 # PP-Exercises
-Practice Python Exercises solutions
+"Practice Python" Exercises solutions
